@@ -37,8 +37,8 @@ It's about [who I am].
 Without embellishment.
 
 ## [CONTACTS]
-## GITHUB: https://github.com/dlsnansk
-## GMAIL: dlsnansk@gmail.com
+### GITHUB: https://github.com/dlsnansk
+### GMAIL: dlsnansk@gmail.com
 
 
-# ===//\\//===
+## ===//\\//===
