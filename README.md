@@ -1,7 +1,7 @@
 ## ===//\\//===
 
 
-## [dlsnansk]
+## 👤[dlsnansk] 👤
 I'm the kind of person who can't walk away from a challenge without trying to solve it.
 It's important for me not just to "do it," but to understand how it works internally.
 If I'm using a tool but don't understand its design, I feel uneasy.
@@ -36,9 +36,9 @@ It's not about "I'm cool."
 It's about [who I am].
 Without embellishment.
 
-## [CONTACTS]
-### GITHUB: https://github.com/dlsnansk
-### GMAIL: dlsnansk@gmail.com
+## 📞 [CONTACTS] 📞
+### 🧑‍💻 GITHUB: https://github.com/dlsnansk
+### 📧 GMAIL: dlsnansk@gmail.com
 
 
 ## ===//\\//===
